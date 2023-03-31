@@ -1,6 +1,6 @@
 Name:		texlive-elocalloc
 Version:	42712
-Release:	1
+Release:	2
 Summary:	Local allocation macros for LaTeX 2015
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/elocalloc
