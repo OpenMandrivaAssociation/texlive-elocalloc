@@ -3,7 +3,7 @@ Version:	42712
 Release:	2
 Summary:	Local allocation macros for LaTeX 2015
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/elocalloc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/elocalloc
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/elocalloc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/elocalloc.doc.r%{version}.tar.xz
